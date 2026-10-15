@@ -1,0 +1,6 @@
+{
+  "name": "Huellitas & Cuidado",
+  "description": "Santuario y red veterinaria unificada de rescate responsable, adopción ética, alertas SOS y gestión clínica profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
